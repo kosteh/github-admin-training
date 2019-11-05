@@ -17,3 +17,5 @@
 - Service account (Jenkins) need a license. Therefore use deployment keys for the repository.
 - In cloud, Github pages are public. In future they can be readable only by Kadaster employees. 
 - Internal repo's can only be read by Kadaster internal employees. Accept when collaborators are added. 
+- File "Code Owner" file (https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners)
+- Dependabot ....
