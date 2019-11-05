@@ -1,5 +1,6 @@
 # Github Admin Training
 ## Pointers from the Github training class (4-7 november 2019)
+- [Training](https://github.zoom.us/j/864348908)
 - [Admin Training Manual](https://githubtraining.github.io/admin-training)
 - [Docsify documentation generation from Github repository](https://docsify.js.org)
 - [Open Source Licensing file examples](https://choosealicense.com)
