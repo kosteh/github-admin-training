@@ -9,7 +9,7 @@
 - [GitHubCustomer Github Training Repo](https://github.com/GitHubCustomer/kadaster)
 - [Creating Github issue templates](https://help.github.com/en/github/building-a-strong-community/about-issue-and-pull-request-templates)
 - [Creating a template repository](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-template-repository) and [create a repository from a template](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
-- Repo github/platform-samples
+- Repo https://github.com/platform-samples
 - https://github.com/ppremk/passport-github/network/dependencies (dependency graph)
 
 ## Notes
