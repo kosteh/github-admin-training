@@ -2,7 +2,7 @@
 ## Pointers from the Github training class (4-7 november 2019)
 - [Training](https://github.zoom.us/j/864348908)
 - [Notes from Prem](https://github.com/githubcustomers/kadaster/issues/2)
-- [Admin Training Manual](https://githubtraining.github.io/admin-training)
+- [Admin Training Manual](https://githubtraining.github.io/admin-training) and https://github.com/githubtraining/admin-training
 - [Docsify documentation generation from Github repository](https://docsify.js.org)
 - [Open Source Licensing file examples](https://choosealicense.com)
 - [Poizen-inc Github Training Organisation](https://github.com/poizen-inc)
