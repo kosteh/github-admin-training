@@ -18,6 +18,7 @@
 - In cloud, Github pages are public. In future they can be readable only by Kadaster employees. 
 - Internal repo's can only be read by Kadaster internal employees. Accept when collaborators are added. 
 - File "Code Owner" file (https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners)
-- Dependabot ....
+- Dependabot .... https://probot.github.io/apps/    https://dependabot.com
+
 - Put Open Source projects in a specific organisation ....
 - Enable "Keep my email addresses private" setting (under profile settings)
